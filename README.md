@@ -13,4 +13,4 @@ Testando a API
 
 O projeto inclui testes unitários para verificar a lógica de verificação de anagramas. Você pode executar os testes usando o Maven ou o POSTMAN passando os parâmetros corretamente, ele retornará TRUE caso seja um anagrama e FALSE caso não seja.
 
-Feito isto, Teste concluído!!
+Feito isto, Teste concluído!! 
